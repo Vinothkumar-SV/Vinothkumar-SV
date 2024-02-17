@@ -1,1 +1,5 @@
-Vinoth
+👋 Hi, I’m Vinoth Kumar
+👀 I’m interested in ... Test Automation
+🌱 I’m currently learning ...
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...vinothkumarsv9@gmail.com
