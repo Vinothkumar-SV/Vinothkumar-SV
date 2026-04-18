@@ -41,7 +41,7 @@
 
 
 
-📦 **40** repositories | ⭐ **1** stars | 👥 **4** followers
+📦 **50** repositories | ⭐ **1** stars | 👥 **6** followers
 
 <br clear="right"/>
 
@@ -209,7 +209,7 @@
 
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
-| 📁 25+ Repositories | ✅ Unlocked |
+| 📁 50+ Repositories | ✅ Unlocked |
 | 📅 3+ Years on GitHub | ✅ Unlocked |
 | 💻 Java Expert | ✅ Unlocked |
 
