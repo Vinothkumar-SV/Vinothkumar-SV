@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%F0%9F%91%8B+Hey!+I%E2%80%99m+Vinoth;%F0%9F%92%BB+I+automate+Web+%26+API+workflows;%F0%9F%9A%80+Tools:+Java,+Selenium,+TestNG,+RestAssured;%F0%9F%93%88+Building+scalable,+maintainable+test+suites" alt="Typing SVG" />
 </a>
 
-<!-- DYNAMIC PROFILE BADGES (Focus, Years, Repos, Stars, Followers, Views) -->
+<!-- DYNAMIC PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Software_Testing-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/Experience-4+_Years-70a5fd?style=for-the-badge" alt="years"/>
@@ -42,16 +42,17 @@
 
 | 🏆 Achievement | Status | Official Badge |
 |:---:|:---:|:---:|
-| **Quickdraw** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="50" height="50"/> |
-| **Pull Shark** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50" height="50"/> |
-| **YOLO** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" height="50"/> |
-| **Heart On Your Sleeve** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="50" height="50"/> |
-| **Starstruck** | ❌ Locked (Need 16 ⭐) | <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" height="50"/> |
-| **Public Sponsor** | ❌ Locked | <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="50" height="50"/> |
-| **Galaxy Brain** | ❌ Locked | <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="50" height="50"/> |
-| **Pair Extraordinaire** | ❌ Locked | <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="50" height="50"/> |
+| **Quickdraw** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
+| **Pull Shark** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
+| **YOLO** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
+| **Heart On Your Sleeve** | ✅ Unlocked | <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
+| **Starstruck** | ❌ Locked (Need 16 ⭐) | <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
+| **Public Sponsor** | ❌ Locked | <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
+| **Galaxy Brain** | ❌ Locked | <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
+| **Pair Extraordinaire** | ❌ Locked | <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png?raw=true" width="50" height="50" style="background:white;border-radius:10px;"/> |
 
 </div>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
@@ -61,10 +62,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinothkumar-SV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
+<!-- GitHub Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vinothkumar-SV&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
 </div>
-
 
 <!-- GitHub Trophies -->
 <div align="center">
@@ -95,7 +96,7 @@
 <img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" alt="appium"/>
 <img src="https://img.shields.io/badge/LambdaTest-0089CF?style=for-the-badge&logo=lambdatest&logoColor=white" alt="lambdatest"/>
 <img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
-<img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
+<img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logoColor=white" alt="extentreports"/>
 </div>
 
 </td>
