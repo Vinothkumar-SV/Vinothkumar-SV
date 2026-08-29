@@ -1,119 +1,176 @@
 <div align="center">
 
-# 👋 Hi, I'm Vinoth Kumar
+<!-- Animated Header -->
 
-### 🚀 SDET | Automation Test Engineer | Java | Selenium | Playwright | API Testing
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Vinoth%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=SDET%20%7C%20Automation%20Test%20Engineer&descAlignY=62&descSize=20&animation=twinkling" width="100%"/>
+
+<br>
+
+<!-- Profile Avatar -->
+
+<img src="https://avatars.githubusercontent.com/u?username=Vinothkumar-SV" width="130" height="130" style="border-radius:50%;" alt="Vinoth Kumar"/>
+
+<br><br>
+
+<!-- Typing Animation -->
+
+<a href="https://github.com/Vinothkumar-SV">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=800&lines=SDET+%7C+Automation+Test+Engineer;Java+%7C+Selenium+%7C+Playwright;API+Testing+%7C+REST+Assured;TestNG+%7C+Cucumber+%7C+BDD;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;Building+Reliable+%26+Scalable+Test+Automation" alt="Typing Animation"/>
+</a>
+
+<br>
+
+<!-- Profile Badges -->
+
+<img src="https://komarev.com/ghpvc/?username=Vinothkumar-SV&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/Vinothkumar-SV?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+
+<img src="https://img.shields.io/github/stars/Vinothkumar-SV?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+
+<br><br>
+
+<!-- Social Buttons -->
+
+<a href="https://github.com/Vinothkumar-SV">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vinothkumar-qa">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://vinoth-portfolio-asiy.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br><br>
+
+<!-- Quick Introduction -->
 
 <p>
-  <a href="https://github.com/Vinothkumar-SV">
-    <img src="https://img.shields.io/badge/GitHub-Vinothkumar--SV-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <b>🔍 Quality Advocate</b> &nbsp; • &nbsp;
+  <b>🤖 Automation Enthusiast</b> &nbsp; • &nbsp;
+  <b>🚀 Continuous Learner</b>
+</p>
+
+<p>
+  <i>
+    "Automate the repetitive. Test the critical. Deliver with confidence."
+  </i>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Software Development Engineer in Test (SDET)** with **4+ years of experience** in software testing and test automation.
+<table>
+<tr>
+<td width="55%">
 
-I specialize in building reliable, maintainable and scalable automation frameworks for **Web, API and Database testing**.
+### 👋 Hello!
 
-### 🔥 What I Do
+I'm **Vinoth Kumar**, a passionate **SDET / Automation Test Engineer** focused on building reliable, maintainable, and scalable test automation solutions.
 
-* 🧪 Web Automation using **Selenium WebDriver & Playwright**
-* ☕ Automation development using **Java**
-* 🔌 API Automation using **REST Assured & Postman**
-* 🗄️ Database validation using **MySQL / SQL**
-* 🧩 BDD automation using **Cucumber**
-* 📊 Test execution & reporting using **TestNG, Extent Reports & Allure**
-* ⚙️ CI/CD automation using **Jenkins & GitHub Actions**
-* 🐳 Working with **Linux, Docker & Kubernetes**
-* 📋 Agile/Scrum testing and defect management
+🔹 **4+ years** of software testing experience
+🔹 Web, API & Database Testing
+🔹 Selenium & Playwright Automation
+🔹 Java-based Automation Frameworks
+🔹 REST API Automation with REST Assured
+🔹 BDD with Cucumber
+🔹 CI/CD with Jenkins & GitHub Actions
+🔹 Agile / Scrum
 
----
+</td>
 
-## 🛠️ Tech Stack
+<td width="45%" align="center">
 
-### 💻 Programming
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Coding Animation"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
-
-### 🧪 Automation & Testing
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium,playwright" />
-</p>
-
-**Selenium WebDriver • Playwright • TestNG • Cucumber • REST Assured • Postman**
-
-### ⚙️ DevOps & CI/CD
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,linux" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**MySQL • SQL**
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧪 Visual Regression Testing
-
-**Playwright + Pixelmatch**
-
-Automated visual comparison testing framework for detecting UI changes and visual regressions.
-
-**Key Features**
-
-* 📸 Automated screenshots
-* 🔍 Pixel-level image comparison
-* 📊 Difference image generation
-* 🧪 Playwright automation
-* ⚡ Automated regression validation
-
-👉 **[View Project](https://github.com/Vinothkumar-SV/VisualRegressionTesting)**
-
----
-
-### 🤖 Robot Framework
-
-Automation framework and practice repository covering Robot Framework concepts and automated test scenarios.
-
-👉 **[View Project](https://github.com/Vinothkumar-SV/RobotFramework)**
-
----
-
-## 📊 GitHub Statistics
+## ⚡ My Automation Arsenal
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Vinothkumar-SV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+<img src="https://skillicons.dev/icons?i=java,selenium,playwright,js,python,maven,git,github,jenkins,docker,kubernetes,mysql,linux&perline=7" />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinothkumar-SV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🧪 What I Build
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    SDET AUTOMATION                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🌐 WEB AUTOMATION                                            ║
+║     ├── Selenium WebDriver                                   ║
+║     └── Playwright                                           ║
+║                                                              ║
+║  🔌 API AUTOMATION                                            ║
+║     ├── REST Assured                                         ║
+║     └── Postman                                               ║
+║                                                              ║
+║  🗄️ DATABASE TESTING                                         ║
+║     └── MySQL / SQL                                          ║
+║                                                              ║
+║  🧩 FRAMEWORK DESIGN                                          ║
+║     ├── Page Object Model                                    ║
+║     ├── Data Driven Testing                                  ║
+║     ├── BDD / Cucumber                                       ║
+║     └── Parallel Execution                                  ║
+║                                                              ║
+║  ⚙️ CI/CD                                                     ║
+║     ├── Jenkins                                              ║
+║     ├── GitHub Actions                                       ║
+║     └── Maven                                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
+
+<a href="https://github.com/Vinothkumar-SV/VisualRegressionTesting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinothkumar-SV&repo=VisualRegressionTesting&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Vinothkumar-SV/RobotFramework">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinothkumar-SV&repo=RobotFramework&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vinothkumar-SV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinothkumar-SV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Vinothkumar-SV&theme=tokyonight&hide_border=true"/>
 
@@ -125,95 +182,44 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinothkumar-
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vinothkumar-SV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"/>
+<a href="https://github.com/Vinothkumar-SV?tab=achievements">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinothkumar-SV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Achievements"/>
+
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinothkumar-SV&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinothkumar-SV&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🧠 Testing Expertise
-
-```text
-                    SOFTWARE TESTING
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-        WEB              API           DATABASE
-          │               │               │
-   Selenium          REST Assured       MySQL
-   Playwright        Postman            SQL
-          │               │               │
-          └───────────────┼───────────────┘
-                          │
-                    TEST AUTOMATION
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-        TestNG         Cucumber        CI/CD
-          │               │               │
-       Maven             BDD          Jenkins
-       Reports           POM       GitHub Actions
-```
-
----
-
-## 📚 Currently Learning
-
-* 🚀 Advanced Playwright
-* 🤖 AI-assisted Test Automation
-* ☁️ Cloud-based test execution
-* 🐳 Dockerized automation frameworks
-* ⚙️ Advanced CI/CD pipelines
-* 📊 Performance & scalability testing
-
----
-
-## 🎯 Career Focus
-
-I'm interested in opportunities involving:
-
-**SDET • QA Automation Engineer • Test Automation Engineer • Software Engineer in Test**
-
-Especially roles involving:
-
-`Java` `Selenium` `Playwright` `REST Assured` `API Testing` `CI/CD` `Automation Framework Development`
-
----
-
-## 📫 Let's Connect
-
 <div align="center">
+
+### 🚀 Let's Build Quality Software Together
 
 <a href="https://github.com/Vinothkumar-SV">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Vinothkumar--SV-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://www.linkedin.com/](https://linkedin.com/in/vinothkumar-qa)">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/vinothkumar-qa">
+<img src="https://img.shields.io/badge/LinkedIn-vinothkumar--qa-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</div>
+<a href="https://vinoth-portfolio-asiy.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-FF5722?style=for-the-badge&logo=vercel"/>
+</a>
 
----
+<br><br>
 
-<div align="center">
-
-### 💡 "Quality is not an act, it is a habit."
-
-⭐ **If you find my projects useful, consider giving them a star!**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Vinothkumar-SV&style=for-the-badge&color=blueviolet"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
 
 </div>
